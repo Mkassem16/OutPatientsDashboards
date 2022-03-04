@@ -9,3 +9,4 @@ Please find below Example use case:
 
 
 Please find below Screenshots for different Slicing and filtering options:
+![Alt Text](Capture1.PNG)
